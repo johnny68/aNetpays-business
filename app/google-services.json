@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671463893168",
+    "project_id": "anet-business"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671463893168:android:de3d58a9c3a24cba",
+        "android_client_info": {
+          "package_name": "com.anetpays.sid.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671463893168-119es8o3patt9ekppmrcnas59uohu7pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anetpays.sid.business",
+            "certificate_hash": "a00b1270bfc87681682dfb9a0ee0cc9edba1c71e"
+          }
+        },
+        {
+          "client_id": "671463893168-8q9b8q9m115rcagqbabjmakb051u1eac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTH5p2MutueWQfHeroxD12hSmvaoFZMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+include ':app', ':lollipin', ':linkedin'
+project(':lollipin').projectDir = new File('lib')
+project(':linkedin').projectDir = new File('linkedinsdk')
